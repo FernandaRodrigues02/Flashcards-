@@ -1,13 +1,13 @@
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'O que é Java?',
+    'O Java é uma linguagem de programação popular orientada a objetos e multiplataforma.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Biologia',
+    'O que significa a expressão "REFICOFAGE"',
+    'A classificação básica dos seres vivos é, em ordem decrescente: reino, filo, classe, ordem, família, gênero, e espécie. A partir disso, surgiu a expressão.'
 )
 
 criaCartao(
