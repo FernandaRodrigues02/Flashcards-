@@ -13,11 +13,11 @@ criaCartao(
 criaCartao(
     'Programação',
     'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Uma função é um bloco de código que executa alguma tarefa.'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'O que é a Filosofia espacial?',
+    'O conceito Filosófico de espaço tem raízes na antiguidade clássica, quando os filosofos grego estabeleceram o contraste entre o pleno e o vazio. Platão concebeu espaço como o receptáculo de tudo o que existe, e Aristóteles como o lugar em que se localizam os objetos.'
 )
